@@ -6,7 +6,6 @@ with open('test.txt') as f:
 print(data)
 ```
 
-```
 
 2. import 한 text file에는 string과 integer이 섞여 있는데 이는 하나의 list에 담겨있다.
 
